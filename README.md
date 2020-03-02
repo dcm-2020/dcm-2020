@@ -1,1 +1,1 @@
-# ijcai-2020-workshop-dccm.github.io
+# IJCAI 2020 Workshop - Disease Computational Modeling
