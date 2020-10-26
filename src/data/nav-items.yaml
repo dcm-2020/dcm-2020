@@ -9,3 +9,7 @@
 - title: Keynotes
   pages:
     - path: /key
+
+- title: Accepted Papers
+  pages:
+    - path: /paper
