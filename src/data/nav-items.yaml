@@ -1,3 +1,7 @@
+- title: Accepted Papers
+  pages:
+    - path: /paper
+
 - title: Agenda
   pages:
     - path: /agenda
@@ -5,10 +9,6 @@
 - title: Keynotes
   pages:
     - path: /key
-
-- title: Accepted Papers
-  pages:
-    - path: /paper
     
 - title: Organizers & Committee
   pages:

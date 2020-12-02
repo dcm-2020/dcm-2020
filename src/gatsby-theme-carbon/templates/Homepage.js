@@ -30,7 +30,7 @@ const SecondRightText = () => (
    Agenda
     <a
       className={calloutLink}
-      href="/key"
+      href="/agenda"
     >
       Quick glance →
     </a>
