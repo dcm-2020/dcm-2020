@@ -1,10 +1,6 @@
-- title: Call for Paper
+- title: Agenda
   pages:
-    - path: /cfp
-
-- title: Organizers & Committee
-  pages:
-    - path: /org
+    - path: /agenda
 
 - title: Keynotes
   pages:
@@ -13,3 +9,11 @@
 - title: Accepted Papers
   pages:
     - path: /paper
+    
+- title: Organizers & Committee
+  pages:
+    - path: /org
+
+- title: Call for Paper
+  pages:
+    - path: /cfp

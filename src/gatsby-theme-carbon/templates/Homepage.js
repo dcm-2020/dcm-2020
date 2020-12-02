@@ -18,21 +18,21 @@ const FirstRightText = () => (
       target="_blank"
       rel="noopener noreferrer"
     >
-      IJCAI 2020, July 2020, Yokohama, Japan. →
+    January 8, 2021, Japan. →
     </a>
   </p>
 );
 
-const SecondLeftText = () => <p>Keynotes</p>;
+const SecondLeftText = () => <p>Agenda</p>;
 
 const SecondRightText = () => (
   <p>
-   Keynotes
+   Agenda
     <a
       className={calloutLink}
       href="/key"
     >
-      To be announced →
+      Quick glance →
     </a>
   </p>
 );
